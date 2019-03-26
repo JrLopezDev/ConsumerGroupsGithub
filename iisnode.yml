@@ -22,3 +22,4 @@ devErrorsEnabled: true
 flushResponse: false  
 enableXFF: false  
 promoteServerVars: 
+debugHeaderEnabled: true
